@@ -1,0 +1,62 @@
+body {
+    background-image: url("https://cstocapwoz-flywheel.netdna-ssl.com/wp-content/uploads/2019/Blog_Images/image-1200x627.png");
+    background-repeat: round;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#frst-Div {
+    margin: 50px;
+}
+
+#title {
+    font-family: "Indie Flower", cursive;
+    font-size: 45px;
+}
+
+#description {
+    font-family: "Indie Flower", cursive;
+    margin: 5px;
+    font-size: x-large;
+}
+
+#form-div {
+    width: 800px;
+    background-color: lightgrey;
+    font-family: "Manrope", sans-serif;
+    font-size: x-large;
+    margin: 50px;
+    padding: 20px;
+    opacity: 0.9;
+    box-shadow: 3px 2px 4px 3px;
+    border-radius: 5px;
+}
+
+.input-field {
+    width: 600px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.radio-label {
+    font-size: medium;
+}
+
+.checkbox-label {
+    font-size: medium;
+}
+
+#submit {
+    background-color: green;
+    color: white;
+    font-family: "Indie Flower", cursive;
+    font-size: large;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: relative;
+    left: 10%;
+}
